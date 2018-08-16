@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/cptullio/WordReportfromNodeJS#readme",
   "dependencies": {
+    "canvas": "^1.6.11",
+    "chart.js": "^2.7.2",
+    "chartjs-node": "^1.7.1",
     "officegen": "^0.4.5"
   }
 }
